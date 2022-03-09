@@ -1,3 +1,5 @@
-# cs50-section-examples
+# Curso cs50 Harvard
 
-## Files to help with course understanding 🤓
+## projeto pessoal para estudo sobre tópicos do curso.
+
+
